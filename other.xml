@@ -1,0 +1,41 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5">
+      <toolchain name="Default" debuggerKind="BUNDLED_LLDB" />
+    </toolchains>
+  </component>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="return&#10;ternar&#10;tern" />
+    <property name="KEYMAP" value="//&#10;comment&#10;Delete&#10;close window&#10;next occur" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SearchEveryWhereHistory" value="ski" />
+    <property name="SettingsSearchHistory" value="built-in&#10;font&#10;import pref" />
+    <property name="SplitFileEditor.Proportion" value="0.6351931" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.181" value="10" />
+    <property name="evlsprt3.182" value="16" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/repos/private/bentaylor-api&#10;/Users/ben/repos/private&#10;/Users/ben/repos/body-by-mg-server-b" />
+    <property name="file.gist.reindex.count" value="42" />
+    <property name="fileTypeChangedCounter" value="70" />
+    <property name="find.popup.splitter" value="0.5448179" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_file_path" value="$USER_HOME$/repos" />
+    <property name="last_open_solution_path" value="$USER_HOME$/repos/body-by-mg-server-b" />
+    <property name="last_selected_template" value="ASP.NET Core Web Application|.NET Core" />
+    <property name="last_selected_template_parameters" value="Type=Web API;Language=C#;Auth=None;Framework=netcoreapp2.1;" />
+    <property name="search.everywhere.max.popup.width" value="780" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.456869" />
+  </component>
+</application>
