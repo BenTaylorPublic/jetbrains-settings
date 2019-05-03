@@ -1,22 +1,45 @@
 <keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Arrangement.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="DomCollectionControl.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="meta o" />
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.RemoveConfiguration">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
-  <action id="Vcs.UpdateProject" />
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.RemoveWatch">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
