@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="DomElementsTreeView.DeleteElement">
@@ -33,6 +34,9 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="RiderUnitTestCoverSolutionAction">
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
