@@ -15,10 +15,14 @@
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
+  <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorChooseLookupItemDot" />
@@ -60,6 +64,18 @@
     <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="EditorPasteFromX11" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoClass">
@@ -70,10 +86,15 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="IncrementWindowHeight" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="ParameterInfo" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="RiderUnitTestCoverSolutionAction">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
@@ -85,10 +106,19 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.RemoveWatch">
