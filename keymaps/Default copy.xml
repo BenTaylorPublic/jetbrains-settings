@@ -64,6 +64,14 @@
     <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="EditorPasteFromX11" />
+  <action id="EditorPasteSimple" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorShowGutterIconTooltip" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -75,6 +83,11 @@
   </action>
   <action id="EditorTextStartWithSelection">
     <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorToggleColumnMode" />
+  <action id="EditorUnSelectWord" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
