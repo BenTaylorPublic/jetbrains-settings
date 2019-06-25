@@ -31,7 +31,12 @@
   </action>
   <action id="EditSource" />
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
