@@ -142,9 +142,6 @@
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="meta back_slash" />
-  </action>
   <action id="ParameterInfo" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
@@ -200,5 +197,4 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
 </keymap>
