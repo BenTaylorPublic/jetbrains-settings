@@ -200,4 +200,5 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
 </keymap>
