@@ -125,8 +125,8 @@
   <action id="FindPrevious" />
   <action id="FindUsages" />
   <action id="FindUsagesInFile" />
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift meta o" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoNextElementUnderCaretUsage" />
