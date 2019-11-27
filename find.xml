@@ -1,20 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'BodyByMgServer'" />
-    <option name="defaultScopeName" value="Project 'BodyByMgServer'" />
-    <option name="SEARCH_SCOPE" value="Project 'BodyByMgServer'" />
-    <mask>*.xml</mask>
-    <mask>*.css</mask>
-    <mask>*.ng</mask>
-    <mask>*.htm</mask>
-    <mask>*.shtml</mask>
-    <mask>*.shtm</mask>
-    <mask>*.sht</mask>
-    <mask>*.html</mask>
-    <mask>*.ats</mask>
-    <mask>*.cjs</mask>
-    <mask>*.js</mask>
-    <mask>*.ts</mask>
-    <mask>*.cs</mask>
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
   </component>
 </application>
