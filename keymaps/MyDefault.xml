@@ -28,6 +28,7 @@
   <action id="CopyReference" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -194,7 +195,10 @@
   <action id="ShowUsages" />
   <action id="Synchronize" />
   <action id="TodoViewGroupByShowPackages" />
-  <action id="UnselectPreviousOccurrence" />
+  <action id="Uml.ShowDiff" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
