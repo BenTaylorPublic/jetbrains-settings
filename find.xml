@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected Files And Folders" />
-    <option name="defaultScopeName" value="Selected Files And Folders" />
-    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -11,11 +12,11 @@
     <mask>*.sht</mask>
     <mask>*.ng</mask>
     <mask>*.ats</mask>
-    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
