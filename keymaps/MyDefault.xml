@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -158,9 +161,8 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RiderOpenSolution" />
-  <action id="RiderUnitTestCoverSolutionAction">
-    <keyboard-shortcut first-keystroke="meta k" />
-  </action>
+  <action id="RiderUnitTestCoverSolutionAction" />
+  <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -202,6 +204,7 @@
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
