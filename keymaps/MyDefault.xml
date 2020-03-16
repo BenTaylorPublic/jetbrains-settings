@@ -164,6 +164,7 @@
   <action id="ResizeToolWindowUp" />
   <action id="RiderOpenSolution" />
   <action id="RiderUnitTestCoverSolutionAction" />
+  <action id="RiderUnitTestRunCurrentSessionTwAction" />
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
