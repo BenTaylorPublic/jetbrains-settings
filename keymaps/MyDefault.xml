@@ -130,8 +130,10 @@
   <action id="FindUsages" />
   <action id="FindUsagesInFile" />
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="meta o" />
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoPrevElementUnderCaretUsage" />
