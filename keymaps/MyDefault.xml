@@ -164,6 +164,9 @@
   <action id="ResizeToolWindowUp" />
   <action id="RiderOpenSolution" />
   <action id="RiderUnitTestCoverSolutionAction" />
+  <action id="RiderUnitTestRunContextAction">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="RunDashboard.RemoveConfiguration">
