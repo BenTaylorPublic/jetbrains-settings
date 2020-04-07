@@ -27,6 +27,7 @@
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneColumn" />
   <action id="CopyPaths" />
   <action id="CopyReference" />
   <action id="DecrementWindowHeight" />
@@ -188,7 +189,9 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
-  <action id="SelectAllOccurrences" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift meta alt d" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
