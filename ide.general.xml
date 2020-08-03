@@ -14,7 +14,7 @@
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
