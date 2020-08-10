@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
