@@ -16,5 +16,8 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="ide.borderless.tab.caption.in.title" value="false" />
+    <entry key="ide.debug.in.title" value="true" />
+    <entry key="rdclient.asyncActions" value="false" />
   </component>
 </application>
