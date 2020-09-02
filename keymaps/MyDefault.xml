@@ -183,7 +183,9 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
-  <action id="SelectAllOccurrences" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
