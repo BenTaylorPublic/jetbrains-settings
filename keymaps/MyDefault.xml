@@ -27,7 +27,6 @@
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
-  <action id="Console.TableResult.CloneColumn" />
   <action id="CopyPaths" />
   <action id="CopyReference" />
   <action id="DecrementWindowHeight" />
@@ -131,16 +130,8 @@
   <action id="FindUsages" />
   <action id="FindUsagesInFile" />
   <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" />
     <keyboard-shortcut first-keystroke="meta t" />
-  </action>
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="Force touch" />
-    <mouse-shortcut keystroke="button2" />
-  </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoPrevElementUnderCaretUsage" />
@@ -170,12 +161,9 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RiderOpenSolution" />
-  <action id="RiderUnitTestCoverSolutionAction" />
-  <action id="RiderUnitTestRunContextAction">
-    <keyboard-shortcut first-keystroke="meta p" />
+  <action id="RiderUnitTestCoverSolutionAction">
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
-  <action id="RiderUnitTestRunCurrentSessionTwAction" />
-  <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -196,7 +184,7 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="shift meta alt d" />
+    <keyboard-shortcut first-keystroke="meta alt d" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
@@ -210,21 +198,16 @@
   <action id="ShowSettings" />
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages" />
-  <action id="SilentCodeCleanup">
-    <keyboard-shortcut first-keystroke="shift alt g" />
-  </action>
   <action id="Synchronize" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
-  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
-  <action id="hg4idea.QGotoFromPatches" />
 </keymap>
